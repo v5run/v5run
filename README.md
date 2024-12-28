@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Varun Pathak!👋</h1>
 <h3 align="center">Software Engineering lll + Management @ McMaster University</h3>
 <div align="center">
-    <a href="https://v5run.github.io/">My Portfolio 💼</a>
+    <a href="https://v5run.github.io/" target="_blank">My Portfolio 💼</a>
 </div>
 
 
