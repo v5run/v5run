@@ -4,7 +4,7 @@ software engineering + management @ mcmaster
 
 right now:
 - jr. data scientist @ the home depot (prev intern)
-- looking for summer '27 internships / summer '28 new grad
+- seeking summer '27 internships / summer '28 new grad
 
 likes
 - llms, ai/ml in production
